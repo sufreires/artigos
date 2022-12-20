@@ -1,0 +1,23 @@
+#artigos{
+    list-style: none;
+    text-align: left;
+}
+
+#artigos li{
+    margin-bottom: 50px;
+    display: inline-grid;
+}
+
+#artigos img{
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+}
+
+#artigos span{
+    font-weight: bold;
+}
+
+#artigos .btn{
+    max-width: 20%;
+}
