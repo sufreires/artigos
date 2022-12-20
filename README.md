@@ -1,11 +1,11 @@
 Tecnologias utilizadas e testadas nesse projeto
 
-PHP 7.33
-Laravel
-jQuery
-Bootstrap
-Ajax
-HTML/CSS
+PHP 7.33,
+Laravel,
+jQuery,
+Bootstrap,
+Ajax,
+HTML/CSS,
 Apache
 
 Execução:
